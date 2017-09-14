@@ -1,0 +1,39 @@
+Descriptions
+1)siddice.py
+2)sidemail.py
+3)stone.py
+4)idle4.py
+5)idletable.py
+
+sidemail.py
+module
+*writing a message inside the mail
+*writing a persons authentication
+*run the program to get the output
+
+
+
+Siddice.py
+*uses RANDOM moudle
+*It chooses a random number from 1-6
+*prints the value of the randomly chosen number
+ 
+Stone.py
+      module 
+*setting the input
+*giving conditions
+*computer chosing random from the input 
+*User getting to choose from the input
+*tabulation
+
+idle4.py
+*Position in the game
+*change inpostion on getting a ladder 
+*setting a range on dice
+*rolling the dice to move ahead in the game
+*roll the dice till you reach the last position you win
+
+siddice.py
+*rolling the dice 
+*setting a range
+*getting random number
